@@ -6,7 +6,7 @@
 - [x] Day 01 – Burnout Breakdown
 - [x] Day 02 – Feature Forge + Regression
 - [x] Day 03 – Classifier Arena
-- [ ] Mini Challenge – Pending
+- [x] Day 04 – Tree-Based Models + k-NN + Feature Selection
 - [ ] Main Challenge – Pending
 
 ### 📘 Cycle 2 – To Be Revealed
