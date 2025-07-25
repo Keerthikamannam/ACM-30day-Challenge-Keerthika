@@ -12,3 +12,4 @@
 ### 📘 Cycle 2 – Tweet Classification
 - [x] Phase 01 - Bagging vs Boosting: Breast Cancer Detection
 - [x] Phase 02 - VM Kernels on Credit Card Dataset (in progress)
+- [x] Phase 03 - Unsupervised Learning : Iris Clustering
