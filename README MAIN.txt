@@ -14,3 +14,4 @@
 - [x] Phase 02 - VM Kernels on Credit Card Dataset (in progress)
 - [x] Phase 03 - Unsupervised Learning : Iris Clustering
 - [x] Phase 04 - SVD + PCA – 20 Newsgroups Clustering
+- [x] Phase 05 - Model Validation & Selection
